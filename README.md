@@ -1,1 +1,1 @@
-# heart-diease
+# heart-diease-project
